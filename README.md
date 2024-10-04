@@ -17,6 +17,7 @@ In the context of healthcare, where the reducing readmissions is critical, high 
 This would help in predicting less false negatives making it highly effective for early intervention strategies.
   
 **Key Insights:**
+
 1.	Model Selection:
 The Gradient Boosting Tuned model was chosen for its high recall, making it valuable for identifying patients at risk of readmission.
 2.	Feature Importance:
@@ -25,10 +26,12 @@ The most critical features include time in hospital, patient age, number of lab 
 The Gradient Boosting model showed superior generalization capabilities compared to other models, making it the most reliable predictor for this dataset.
 
 **Real World Implications**
-•	Preventive Healthcare: By accurately predicting which patients are likely to be readmitted, healthcare providers can design interventions, such as closer monitoring or specific treatment plans, to reduce readmissions.
-•	Optimized Resources: Targeting at-risk patients allows hospitals to better allocate resources, reducing unnecessary readmissions and improving patient outcomes.
+
+1. Preventive Healthcare: By accurately predicting which patients are likely to be readmitted, healthcare providers can design interventions, such as closer monitoring or specific treatment plans, to reduce readmissions.
+2. Optimized Resources: Targeting at-risk patients allows hospitals to better allocate resources, reducing unnecessary readmissions and improving patient outcomes.
 
 **Conclusion**
+
 This project applied machine learning to predict hospital readmissions, offering actionable insights for improving patient care and reducing costs. The Gradient Boosting Tuned model provided the best balance between recall and precision, making it the optimal choice for healthcare interventions. It highlights the value of data-driven approaches in enhancing patient outcomes and resource allocation. Implementing this or advanced models can significantly improve healthcare efficiency.
 
 
