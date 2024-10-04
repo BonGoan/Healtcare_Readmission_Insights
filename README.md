@@ -1,9 +1,11 @@
 **Predicting Hospital Readmissions: A Data-Driven Approach**
 
 **Project Overview**
+
 Hospital readmissions pose a critical challenge for healthcare systems, affecting patient outcomes and hospital finances. In this project, we develop a machine learning model to predict hospital readmissions using patient data, enabling healthcare providers to identify high-risk patients and potentially prevent unnecessary readmissions.
 
 **The Process**
+
 The workflow for this project follows a structured approach, covering several phases:
 1.	Data Sourcing:
 The dataset, sourced from Kaggle, consists of 25,000 patient records with 18 columns. This data was analyzed, cleaned and preprocessed for model building (cleaned dataset = 25,000 and 7 columns).
